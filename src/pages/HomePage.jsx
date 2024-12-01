@@ -19,7 +19,7 @@ const HomePage = () => {
 
     return (
         <div>
-            <h1 id="products_heading" style = {{textAlign:"center"}}>Latest Products</h1>
+            <h1 id="products_heading" style = {{textAlign:"center"}}>Welcome to Easy Products Portal !!!</h1>
 
             <section id="products" className="container mt-5">
                 <div className="row">
